@@ -35,6 +35,7 @@
 
 
 #define _GNU_SOURCE
+#define _XOPEN_SOURCE
 
 #include <stdio.h>
 #include <string.h>
