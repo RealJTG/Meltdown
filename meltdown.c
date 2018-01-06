@@ -149,6 +149,8 @@ int main(int argc, char *argv[])
 
     for (i = 0; i < n_array; i++) {
         printf ("%s\n", array[i]);
+        fflush(stdout);
+        usleep(100000);
     }
     return 0;
 }
