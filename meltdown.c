@@ -5,10 +5,7 @@
  * ---------------------------------------------------------------------
  * 
  * Author takes no responsibility for any actions with provided 
- * informations or codes. The copyright for any material created by the 
- * author is reserved. Any duplication of codes or texts provided here in 
- * electronic or printed publications is not permitted without the 
- * author's agreement. For personal and non-commercial use only.
+ * informations or codes.
  * 
  * ---------------------------------------------------------------------
  * 
